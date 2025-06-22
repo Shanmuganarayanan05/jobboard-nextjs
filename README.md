@@ -6,7 +6,7 @@ npm install
 
 ## Required Dependences
 
-tailwindcss, nextjs, node v20 or above
+tailwindcss, nextjs, node v20 or above, Lucide
 
 ## Getting Started
 
