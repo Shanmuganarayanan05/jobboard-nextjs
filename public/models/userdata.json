@@ -1,0 +1,16 @@
+[
+  {
+    "id": "recruiter-001",
+    "email": "recruiter@example.com",
+    "password": "password123",
+    "role": "recruiter",
+    "name": "Shanmuga"
+  },
+  {
+    "id": "applicant-001",
+    "email": "applicant@example.com",
+    "password": "password123",
+    "role": "applicant",
+    "name": "Aravindh"
+  }
+]

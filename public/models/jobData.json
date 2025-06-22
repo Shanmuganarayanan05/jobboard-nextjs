@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Frontend Developer",
+    "company": "TechCorp",
+    "location": "India, CA",
+    "jobType": "Full-time",
+    "description": "We are looking for a skilled Frontend Developer to join our growing engineering team. You will be responsible for building scalable web applications using modern JavaScript frameworks such as React. Experience with TypeScript, state management, and performance optimization is a must. You will collaborate closely with our backend developers and product team to deliver seamless user experiences.",
+    "salary": "$120k - $150k",
+    "postedDate": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "title": "Backend Engineer (Node.js)",
+    "company": "DataGrid Inc.",
+    "location": "Austin, TX",
+    "jobType": "Full-time",
+    "description": "Join our backend engineering team to help scale our data platform used by millions. Your responsibilities will include designing APIs, managing database schemas, and optimizing performance. We're looking for someone with experience in Node.js, PostgreSQL, and microservices architecture. Experience with cloud platforms (AWS/GCP) is a plus.",
+    "salary": "$110k - $140k",
+    "postedDate": "2024-02-20"
+  },
+  {
+    "id": "3",
+    "title": "UX/UI Designer",
+    "company": "DesignStudio",
+    "location": "Remote",
+    "jobType": "Remote",
+    "description": "We're seeking a UX/UI designer with a strong portfolio of responsive design projects. You’ll collaborate with product and engineering teams to create intuitive, accessible, and visually stunning interfaces. Proficiency in Figma, design systems, and user research is essential. Prior experience in SaaS or productivity tools is highly desirable.",
+    "salary": "$90k - $115k",
+    "postedDate": "2024-03-05"
+  },
+  {
+    "id": "4",
+    "title": "Junior DevOps Engineer",
+    "company": "CloudNova",
+    "location": "Seattle, WA",
+    "jobType": "Contract",
+    "description": "We are looking for a Junior DevOps Engineer to assist with automating our CI/CD pipelines and maintaining infrastructure reliability. Ideal candidates will have familiarity with Docker, GitHub Actions, and Linux environments. You will work under the guidance of senior DevOps engineers in a fast-paced cloud-native environment.",
+    "salary": "$70k - $85k",
+    "postedDate": "2024-03-22"
+  },
+  {
+    "id": "5",
+    "title": "Product Manager",
+    "company": "StartupXYZ",
+    "location": "New York, NY",
+    "jobType": "Part-time",
+    "description": "Looking for a passionate Product Manager to own the roadmap of our flagship platform. You will define product requirements, manage sprint planning, and ensure cross-functional alignment. Experience in agile environments, strong communication skills, and the ability to work with remote teams are key to success in this role.",
+    "salary": "$80k - $100k",
+    "postedDate": "2024-04-10"
+  },
+  {
+    "id": "6",
+    "title": "Senior Frontend Developer",
+    "company": "TechCorp",
+    "location": "San Francisco, CA",
+    "jobType": "Full-time",
+    "description": "We are looking for a skilled Frontend Developer to join our growing engineering team. You will be responsible for building scalable web applications using modern JavaScript frameworks such as React. Experience with TypeScript, state management, and performance optimization is a must. You will collaborate closely with our backend developers and product team to deliver seamless user experiences.",
+    "salary": "$120k - $150k",
+    "postedDate": "2024-01-15"
+  },
+  {
+    "id": "7",
+    "title": "Backend Engineer (Node.js)",
+    "company": "DataGrid Inc.",
+    "location": "Austin, TX",
+    "jobType": "Full-time",
+    "description": "Join our backend engineering team to help scale our data platform used by millions. Your responsibilities will include designing APIs, managing database schemas, and optimizing performance. We're looking for someone with experience in Node.js, PostgreSQL, and microservices architecture. Experience with cloud platforms (AWS/GCP) is a plus.",
+    "salary": "$110k - $140k",
+    "postedDate": "2024-02-20"
+  },
+  {
+    "id": "8",
+    "title": "UX/UI Designer",
+    "company": "DesignStudio",
+    "location": "Remote",
+    "jobType": "Remote",
+    "description": "We're seeking a UX/UI designer with a strong portfolio of responsive design projects. You’ll collaborate with product and engineering teams to create intuitive, accessible, and visually stunning interfaces. Proficiency in Figma, design systems, and user research is essential. Prior experience in SaaS or productivity tools is highly desirable.",
+    "salary": "$90k - $115k",
+    "postedDate": "2024-03-05"
+  },
+  {
+    "id": "9",
+    "title": "Junior DevOps Engineer",
+    "company": "CloudNova",
+    "location": "Seattle, WA",
+    "jobType": "Contract",
+    "description": "We are looking for a Junior DevOps Engineer to assist with automating our CI/CD pipelines and maintaining infrastructure reliability. Ideal candidates will have familiarity with Docker, GitHub Actions, and Linux environments. You will work under the guidance of senior DevOps engineers in a fast-paced cloud-native environment.",
+    "salary": "$70k - $85k",
+    "postedDate": "2024-03-22"
+  },
+  {
+    "id": "10",
+    "title": "Product Manager",
+    "company": "StartupXYZ",
+    "location": "New York, NY",
+    "jobType": "Part-time",
+    "description": "Looking for a passionate Product Manager to own the roadmap of our flagship platform. You will define product requirements, manage sprint planning, and ensure cross-functional alignment. Experience in agile environments, strong communication skills, and the ability to work with remote teams are key to success in this role.",
+    "salary": "$80k - $100k",
+    "postedDate": "2024-04-10"
+  }
+]
