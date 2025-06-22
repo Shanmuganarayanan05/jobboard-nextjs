@@ -8,6 +8,18 @@ npm install
 
 tailwindcss, nextjs, node v20 or above, Lucide
 
+## RBAC Implementation
+
+RBAC implemenation has been added to differentiate applicant and recruiter
+
+Recruiter Login: 
+email: recruiter@example.com
+password : password123
+
+Applicant Login: 
+email: applicant@example.com
+password : password123
+
 ## Getting Started
 
 First, run the development server:
