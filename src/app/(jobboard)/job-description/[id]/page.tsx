@@ -145,7 +145,7 @@ export default function JobDescriptionPage({ params }: PageProps) {
                     </div>
                 ) : (
                     <form onSubmit={handleSubmit} noValidate>
-                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        <div className="grid grid-cols-1 gap-6">
                             <Input
                                 type="text"
                                 id="fullName"
